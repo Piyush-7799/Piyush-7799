@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Piyush Kumar**
 
-### 🚀 B.Tech CSE (AIML) Student
+###  | 🚀 B.Tech CSE (AIML) Student |
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects+%F0%9F%9A%80;Learning+DSA+%26+AI%2FML+%F0%9F%A4%96;Full+Stack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
 
