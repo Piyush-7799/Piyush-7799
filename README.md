@@ -2,9 +2,29 @@
 
 # 👋 Hi, I'm **Piyush Kumar**
 
-###  | 🚀 B.Tech CSE (AIML) Student |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%F0%9F%92%BB+Building+Real-World+Projects;%E2%9A%A1+Learning+DSA+Every+Day" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects+%F0%9F%9A%80;Learning+DSA+%26+AI%2FML+%F0%9F%A4%96;Full+Stack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ps480648@gmail.com">
+<img src="https://img.shields.io/badge/Email-ps480648%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="tel:+917779849002">
+<img src="https://img.shields.io/badge/Phone-%2B91%207779849002-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/piyush-singh-4a4b08331">
+<img src="https://img.shields.io/badge/LinkedIn-Piyush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Piyush-7799">
+<img src="https://img.shields.io/badge/GitHub-Piyush--7799-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -49,7 +69,7 @@ I'm a Computer Science student passionate about **building real-world applicatio
 
 ### 🛒 MithilaKart
 
-**MithilaKart** is a local quick-commerce platform inspired by modern grocery delivery applications, focused on bringing products from the **Mithila region** to users.
+**MithilaKart** is a local quick-commerce platform focused on bringing products from the **Mithila region** to users.
 
 **Tech Stack:** React • TypeScript • Vite • CSS
 
@@ -71,59 +91,11 @@ Currently practicing and solving problems related to:
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyush-7799&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 💡 **Code • Learn • Build • Repeat** 🚀
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-7799&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Piyush-7799&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-7799&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Piyush-7799">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/piyush-singh-4a4b08331">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Code • Learn • Build • Repeat 🚀
-
-<img src="https://komarev.com/ghpvc/?username=Piyush-7799&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Piyush-7799&label=Profile%20Views&style=flat" />
 
 ⭐ **Thanks for visiting my profile!**
 
