@@ -11,15 +11,15 @@
 <div align="center">
 
 <a href="mailto:ps480608@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="tel:+917779849002">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
 </a>
 
 <a href="https://www.linkedin.com/in/piyush-singh-4a4b08331">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -42,26 +42,43 @@ I'm a Computer Science student passionate about **building real-world applicatio
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
 </p>
+
+**Java • Python • C++ • JavaScript**
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+<img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
 </p>
+
+**HTML5 • CSS3 • React • Vite**
 
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
 </p>
+
+**MySQL • Git • GitHub • VS Code**
 
 ---
 
 ### 💡 **Code • Learn • Build • Repeat** 🚀
 
-<img src="https://komarev.com/ghpvc/?username=Piyush-7799&label=Profile%20Views&style=flat" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Piyush-7799&label=Profile%20Views&style=flat" alt="Profile Views" />
 
 ⭐ **Thanks for visiting my profile!**
 
