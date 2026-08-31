@@ -30,11 +30,9 @@
 
 I'm a Computer Science student passionate about **building real-world applications, solving problems with DSA, and exploring AI/ML technologies**.
 
-* 🔭 Currently working on **MithilaKart** 🛒
 * 🌱 Currently learning **Advanced DSA, React, AI/ML & Backend Development**
 * 💻 Interested in **Full Stack Development & Artificial Intelligence**
 * 🎯 Goal: Become a skilled **Software Engineer & AI/ML Developer**
-* 🏠 From **Mithilanchal, Bihar**
 * 🏏 Hobbies: **Playing Cricket**
 
 ---
@@ -60,34 +58,6 @@ I'm a Computer Science student passionate about **building real-world applicatio
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🛒 MithilaKart
-
-**MithilaKart** is a local quick-commerce platform focused on bringing products from the **Mithila region** to users.
-
-**Tech Stack:** React • TypeScript • Vite • CSS
-
----
-
-### 🌿 Ayu_H+
-
-**Ayu_H+** is an AI-powered wellness and Ayurvedic health assistant project designed to provide useful health and wellness information.
-
-**Tech Stack:** AI • Web Development • JavaScript
-
----
-
-### 💻 DSA & Problem Solving
-
-Currently practicing and solving problems related to:
-
-`Arrays` • `Strings` • `Recursion` • `Linked Lists` • `Trees` • `Algorithms`
-
----
-
-<div align="center">
 
 ### 💡 **Code • Learn • Build • Repeat** 🚀
 
