@@ -6,7 +6,7 @@
 
 </div>
 
-## 🌐 Let's Connect
+                      ## 🌐 Let's Connect
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm a Computer Science student passionate about **building real-world applicatio
 
 ---
 
-### 💡 **Code • Learn • Build • Repeat** 🚀
+                 ### 💡 **Code • Learn • Build • Repeat** 🚀
 
 <div align="center">
 
